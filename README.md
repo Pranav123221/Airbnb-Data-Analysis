@@ -198,7 +198,18 @@ The project includes professional visualizations using:
 * Pair Plots
 * Interactive Plotly Charts
 
-> 📸 Screenshots will be added after completing the analysis.
+> screenshots
+>
+> <img width="1027" height="840" alt="Screenshot 2026-07-26 190006" src="https://github.com/user-attachments/assets/6c1d2afc-abd6-4cf5-b814-79e6b1ab2f98" />
+
+<img width="1041" height="773" alt="Screenshot 2026-07-26 190016" src="https://github.com/user-attachments/assets/3f148b81-a7f7-46bc-9557-2a5836239501" />
+
+<img width="1042" height="756" alt="Screenshot 2026-07-26 190030" src="https://github.com/user-attachments/assets/3eb7578d-c7b2-4937-9fd8-52abf6177968" />
+
+<img width="1020" height="852" alt="Screenshot 2026-07-26 190053" src="https://github.com/user-attachments/assets/1bec8772-3d88-4825-aa82-5adeafeee684" />
+
+
+
 
 ---
 
