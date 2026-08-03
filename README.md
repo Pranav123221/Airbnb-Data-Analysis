@@ -256,6 +256,7 @@ jupyter notebook
 ```
 
 ---
+kaggle: https://www.kaggle.com/code/ps23122005/airbnb-nyc-data-analysis
 
 # ⭐ Support
 
